@@ -21,6 +21,3 @@ Para obtener la respuesta al *problema 1* de la práctica 13 se utilizaron los s
 
 Las ecuaciones referentes al proceso estocástico serían:
 
-> $$\displaystyle P(i) = \log{(i + 1)} - \log{i} $$
-
-<img align='center' src='https://i.imgur.com/2PwdGF0.png' width ="700"/>
